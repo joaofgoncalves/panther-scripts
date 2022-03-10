@@ -26,10 +26,14 @@ cd //root/helium/overlay
 sudo vi docker.config
 ```
 
-2.1) Use mouse to position the cursor
-2.2) Use [INSERT] key and enter the required values
-2.3) To exit do [ESC] key and Ctrl + E and then write ```:wq!``` to save
-2.4) Check the file with ```cat docker.config```
+   2.1) Use mouse to position the cursor        
+
+   2.2) Use [INSERT] key and enter the required values      
+
+   2.3) To exit do [ESC] key and Ctrl + E and then write ```:wq!``` to save     
+   
+   2.4) Check the file with ```cat docker.config```      
+
 
 3) Run the following command to update the peer list: 
 
